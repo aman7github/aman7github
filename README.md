@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about MERN<br><br>👨‍💻 All of my projects are available at <a href="https://aman7github.github.io/" >My Portfolio</a> <br><br>📫 How to reach me amanmaurya9044@gmail.com<br><br>📄 Know about my experiences My Resume
+🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about MERN<br><br>👨‍💻 All of my projects are available at <a href="https://aman7github.github.io/" >My Portfolio</a> <br><br>📫 How to reach me amanmaurya9044@gmail.com<br><br>📄 Know about my experiences <a href="https://drive.google.com/file/d/1Ka_kTQH7kMstCNMQ8LaTTWVM4vuLeF4P/view?usp=share_link" > My Resume </a>
 
 
 ## 🌐 Socials:
