@@ -1,6 +1,6 @@
 # 💫 About Me:
 Passionate and detail-oriented developer with a strong foundation in problem-solving and software development. Experienced in building optimized, user-centric web solutions and thriving in collaborative, fast-paced environments. Committed to continuous learning and creating impactful digital experiences through clean code and thoughtful design.
-<br><br>💬 Ask me about MERN<br><br>👨‍💻 All of my projects are available at <a href="https://aman7github.github.io/" >My Portfolio</a> <br><br>📫 How to reach me amanmaurya9044@gmail.com<br><br>📄 Know about my experiences <a href="https://drive.google.com/file/d/1BMyeWdj0bgTUVHJf9H1bgps7fyQ-MCJ6/view?usp=sharing" > My Resume </a>
+<br><br>💬 Ask me about MERN<br><br>👨‍💻 All of my projects are available at <a href="https://aman7github.github.io/" >My Portfolio</a> <br><br>📫 How to reach me amanmaurya9044@gmail.com<br><br>📄 Know about my experiences <a href="https://drive.google.com/file/d/1N2Rg6rycQEV3ru_-E2TwD0DSlPsSJgIq/view?usp=sharing" > My Resume </a>
 
 
 ## 🌐 Socials:
